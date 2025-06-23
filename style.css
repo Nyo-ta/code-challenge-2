@@ -1,0 +1,23 @@
+body{
+    background-image:url(./red-light-round-podium-black-background-mock-up.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: azure;
+}
+#guest {
+    text-align: center;
+    color:honeydew;
+}
+#guest button{
+    margin-top: 1%;
+}
+.guestcomp{
+    color: antiquewhite;
+    font-weight: bolder;
+    text-decoration:underline ;
+}
+
+
